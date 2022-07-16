@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="pic_trulli.jpg" alt="Italian Trulli">
+<img src="https://github.com/AudiBE/AudiBE/blob/main/giphy.gif" alt=""  width="1000"  height="300">
 
 
 <!--
